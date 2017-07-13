@@ -1,6 +1,6 @@
 # Display the next high tide and/or low tide time using the Tidespy API
 
-[![Build Status](https://travis-ci.org/joshmcarthur/homeassistant-tidespy.svg?branch=master)](https://travis-ci.org/Br3nda/homeassistant-tidespy)
+[![Build Status](https://travis-ci.org/joshmcarthur/homeassistant-tidespy.svg?branch=master)](https://travis-ci.org/joshmcarthur/homeassistant-tidespy)
 
 ![Demo image](img/screenshot.png)
 
